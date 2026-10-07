@@ -1,0 +1,12 @@
+{
+  "name": "aurawear-workspace",
+  "version": "1.0.0",
+  "description": "Full-stack MERN Fashion E-Commerce Web Application (AuraWear)",
+  "scripts": {
+    "server": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev",
+    "seed": "npm --prefix server run seed",
+    "test:flows": "npm --prefix server run test:flows || node server/testFlows.js",
+    "build:client": "npm --prefix client run build"
+  }
+}
