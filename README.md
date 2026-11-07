@@ -40,7 +40,7 @@ Built with an original brand identity, clean minimalist architecture, cookie-bas
 - **Order Fulfillment Pipeline**: Filter orders by status and transition tracking states with automatic delivery and payment reconciliation.
 - **User Directory**: View registered customer directory and safely manage administrator roles.
 
----
+----
 
 ## Tech Stack
 
